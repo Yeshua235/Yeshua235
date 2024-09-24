@@ -1,4 +1,5 @@
-- 👋 Hi, I’m JoshuaKing
+- 👋 Hi, I’m Joshua Ayanlowo
+- 🐍 I'm a Python developer
 - 👀 I’m interested In Machine Learning and web development
 - 🌱 I’m currently learning Django web framework
 - 📫 How to reach me 
