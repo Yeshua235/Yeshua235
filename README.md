@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Joshua Ayanlowo
 - 🐍 I'm a Python developer
-- 👀 I’m interested In Machine Learning and web development
-- 🌱 I’m currently learning Django web framework
+- 👀 I specialize In Machine Learning and web development
 - 📫 How to reach me 
 E-mail: joshuaayanlowo235@gmail.com,
 Contact: +234 810 930 3116, +234 907 326 4473
